@@ -52,7 +52,7 @@
 ![Git](https://img.shields.io/badge/-Git-1A1B27?style=flat&logo=git&logoColor=F05032&labelColor=252526)
 ![GitHub](https://img.shields.io/badge/-GitHub-1A1B27?style=flat&logo=github&logoColor=ffffff&labelColor=252526)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-1A1B27?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![Pycharm](https://img.shields.io/badge/-PyCharm-1A1B27?style=flat&logo=pycharm&logoColor=FFFF00labelColor=252526)
+![Pycharm](https://img.shields.io/badge/-PyCharm-1A1B27?style=flat&logo=pycharm&logoColor=FFFF00&labelColor=252526)
 ![Windows](https://img.shields.io/badge/-Windows-1A1B27?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 ![Linux](https://img.shields.io/badge/-Linux-1A1B27?style=flat&logo=linux&logoColor=ffffff&labelColor=0078D6)
 ![Discord](https://img.shields.io/badge/-Discord-1A1B27?style=flat&logo=Discord&logoColor=ffffff&labelColor=0078D6)
