@@ -37,7 +37,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1A1B27?style=flat&logo=facebook&labelColor=252526)](https://www.facebook.com/the.noob.adib.550/)
 [![Instagram](https://img.shields.io/badge/-Instagram-1A1B27?style=flat&logo=instagram&labelColor=252526)](https://www.instagram.com/the.noob.adib.550/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1A1B27?style=flat&logo=twitter&labelColor=252526)](https://www.twitter.com/Adib70980567/)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-1A1B27?style=flat&logo=linkedin&labelColor=252526)](https://www.linkedin.com/in/mohammed-adib-850a41213/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-1A1B27?style=flat&logo=linkedin&labelColor=252526)](https://www.linkedin.com/in/mohammed-adib-550/)
 
 
 </h3>
