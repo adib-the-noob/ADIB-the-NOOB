@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Age-16-brighteen"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/badge/Focus-python , C , Dart-brighteen"/> 
+    <img src="https://img.shields.io/badge/Focus-Python , C & Dart-brighteen"/> 
   </a>  
   <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/badge/Living-Comilla-brighteen"/> 
