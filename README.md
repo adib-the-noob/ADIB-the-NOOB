@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **Flask and Django in Python**
 
-- 🤝 I’m looking for help with **Frontend Development,Backend development,Artificial Intelligence and Machine Learning**
+- 🤝 I’m looking for help with **Artificial Intelligence,Machine Learning and Cybersecurity**
 
 - 💬 Ask me about **anything**
 
