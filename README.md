@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Age-16-brighteen"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/badge/Focus-Python,Java,C & Dart-brighteen"/> 
+    <img src="https://img.shields.io/badge/Focus-Cybersecurity and IOS development-brighteen"/> 
   </a>  
   <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/badge/Living-Comilla-brighteen"/> 
@@ -16,13 +16,13 @@
   <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=ADIB-the-NOOB&column=8&theme=onedark&no-frame=true"/>
 </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Flask and SwiftUI**
 
-- 🌱 I’m currently learning **HTML,CSS,C also Python**
+- 🌱 I’m currently learning **Python and Swift**
 
-- 👯 I’m looking to collaborate on **Flask and Django in Python**
+- 👯 I’m looking to collaborate on **Flask,SwiftUI**
 
-- 🤝 I’m looking for help with **Artificial Intelligence,Machine Learning and Cybersecurity**
+- 🤝 I’m looking for help with **IOS developent and Cybersecurity**
 
 - 💬 Ask me about **anything**
 
@@ -46,16 +46,15 @@
 
 <h3 align="center">
     
-![Python](https://img.shields.io/badge/-python-1A1B27?style=flat&logo=python&logoColor=FFFF00&labelColor=339AF0)
-![HTML5](https://img.shields.io/badge/-HTML5-1A1B27?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-1A1B27?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+![Python](https://img.shields.io/badge/-python-1A1B27?style=flat&logo=python&logoColor=FFFF00&labelColor=252526)
+![Swift](https://img.shields.io/badge/-swift-1A1B27?style=flat&logo=swift&logoColor=FFA500&labelColor=252526)
 ![Git](https://img.shields.io/badge/-Git-1A1B27?style=flat&logo=git&logoColor=F05032&labelColor=252526)
 ![GitHub](https://img.shields.io/badge/-GitHub-1A1B27?style=flat&logo=github&logoColor=ffffff&labelColor=252526)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-1A1B27?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-1A1B27?style=flat&logo=visual-studio-code&labelColor=252526)
 ![Pycharm](https://img.shields.io/badge/-PyCharm-1A1B27?style=flat&logo=pycharm&logoColor=FFFF00&labelColor=252526)
-![Windows](https://img.shields.io/badge/-Windows-1A1B27?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-![Linux](https://img.shields.io/badge/-Linux-1A1B27?style=flat&logo=linux&logoColor=ffffff&labelColor=0078D6)
-![Discord](https://img.shields.io/badge/-Discord-1A1B27?style=flat&logo=Discord&logoColor=ffffff&labelColor=0078D6)
+![Windows](https://img.shields.io/badge/-Windows-1A1B27?style=flat&logo=windows&logoColor=ffbb00&labelColor=252526)
+![Linux](https://img.shields.io/badge/-Linux-1A1B27?style=flat&logo=linux&logoColor=FFA500&labelColor=252526)
+![Discord](https://img.shields.io/badge/-Discord-1A1B27?style=flat&logo=Discord&logoColor=7289da&labelColor=252526)
     
     
 </h3>
