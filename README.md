@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Age-16-brighteen"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/badge/Focus-Cybersecurity and IOS development-brighteen"/> 
+    <img src="https://img.shields.io/badge/Focus-App, Web Development and Cybersecurity-brighteen"/> 
   </a>  
   <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/badge/Living-Comilla-brighteen"/> 
@@ -16,13 +16,13 @@
   <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=ADIB-the-NOOB&column=8&theme=onedark&no-frame=true"/>
 </p>
 
-- 🔭 I’m currently working on **Flask and SwiftUI**
+- 🔭 I’m currently working on **Django, Dart and SwiftUI**
 
-- 🌱 I’m currently learning **Python and Swift**
+- 🌱 I’m currently learning **Python,Dart and Swift**
 
-- 👯 I’m looking to collaborate on **Flask,SwiftUI**
+- 👯 I’m looking to collaborate on **Flask, Django, Flutter,SwiftUI**
 
-- 🤝 I’m looking for help with **IOS developent and Cybersecurity**
+- 🤝 I’m looking for help with **App, Web Development and Cybersecurity**
 
 - 💬 Ask me about **anything**
 
