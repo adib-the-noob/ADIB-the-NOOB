@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python developer from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ADIB-the-NOOB&label=Profile%20views&color=4DC71F&style=flat" alt="ADIB-the-NOOB" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/badge/Age-16-brighteen"/> 
+    <img src="https://img.shields.io/badge/Age-17-brighteen"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
     <img src="https://img.shields.io/badge/Focus-App, Web Development and Cybersecurity-brighteen"/> 
@@ -16,11 +16,11 @@
   <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=ADIB-the-NOOB&column=8&theme=onedark&no-frame=true"/>
 </p>
 
-- 🔭 I’m currently working on **Django, Dart and SwiftUI**
+- 🔭 I’m currently working on **Django and SwiftUI**
 
-- 🌱 I’m currently learning **Python,Dart and Swift**
+- 🌱 I’m currently learning **Python and Swift**
 
-- 👯 I’m looking to collaborate on **Flask, Django, Flutter,SwiftUI**
+- 👯 I’m looking to collaborate on **Flask, Django,SwiftUI**
 
 - 🤝 I’m looking for help with **App, Web Development and Cybersecurity**
 
