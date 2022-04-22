@@ -1,69 +1,51 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Mohammed Adib</h1>
-<h3 align="center">A passionate Python developer from Bangladesh</h3>
+Hi 👋 My name is Mohammed Adib
+==============================
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ADIB-the-NOOB&label=Profile%20views&color=4DC71F&style=flat" alt="ADIB-the-NOOB" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/badge/Age-17-brighteen"/> 
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/badge/Focus-App, Web Development and Cybersecurity-brighteen"/> 
-  </a>  
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/badge/Living-Comilla-brighteen"/> 
-  </a>
-     </p>
+Passionate Django and IOS app developer.
+----------------------------------------
 
- <p align="center" >
-  <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=ADIB-the-NOOB&column=8&theme=onedark&no-frame=true"/>
+As a Django developer, my job is to program applications for clients using the Django framework for the Python programming language. In this role, I help select the resources for each project, oversee development, troubleshoot problems, and test existing code.
+
+* 🌍  I'm based in Comilla, Chittagong, Bangladesh
+* ✉️  You can contact me at [the\_noob010@protonmail.com](mailto:the_noob010@protonmail.com)
+* 🚀  I'm currently working on [Django](http://https://github.com/ADIB-the-NOOB/Django-For-being-A-Mango-people)
+* 🧠  I'm learning SwiftUI
+* 🤝  I'm open to collaborating on SwiftUI
+* ⚡  I am the Laziest and Noobest person in the world.
+
+<a href="https://www.github.com/ADIB-the-NOOB" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ADIB-the-NOOB?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-- 🔭 I’m currently working on **Django and SwiftUI**
 
-- 🌱 I’m currently learning **Python and Swift**
+### Socials
 
-- 👯 I’m looking to collaborate on **Flask, Django,SwiftUI**
+<p align="left"> <a href="https://discord.com/users/duD3dhxCdf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ADIB-the-NOOB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/adib_the_noob" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammed-adib-550" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/mohammedadib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Adib70980567" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UChEMm5laLkUjQ5VSF3TbaQA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-- 🤝 I’m looking for help with **App, Web Development and Cybersecurity**
+### Badges
 
-- 💬 Ask me about **anything**
+<b>My GitHub Stats</b>
 
-- 📫 How to reach me **mdadib550@gmail.com**
+<a href="http://www.github.com/ADIB-the-NOOB"><img src="https://github-readme-stats.vercel.app/api?username=ADIB-the-NOOB&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ADIB-the-NOOB's GitHub stats" /></a>
 
-- ⚡ Fun fact **I am too lazy**
+<a href="http://www.github.com/ADIB-the-NOOB"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ADIB-the-NOOB&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<h3 align="center">Connect with me:</h3>
+<a href="http://www.github.com/ADIB-the-NOOB"><img src="https://activity-graph.herokuapp.com/graph?username=ADIB-the-NOOB&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<h3 align="center">
-    
-[![Facebook](https://img.shields.io/badge/-Facebook-1A1B27?style=flat&logo=facebook&labelColor=252526)](https://www.facebook.com/the.noob.adib.550/)
-[![Instagram](https://img.shields.io/badge/-Instagram-1A1B27?style=flat&logo=instagram&labelColor=252526)](https://www.instagram.com/the.noob.adib.550/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1A1B27?style=flat&logo=twitter&labelColor=252526)](https://www.twitter.com/Adib70980567/)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-1A1B27?style=flat&logo=linkedin&labelColor=252526)](https://www.linkedin.com/in/mohammed-adib-550/)
-
-
-</h3>
-
-<h3 align="center">Languages and Tools:</h3>
-
-<h3 align="center">
-    
-![Python](https://img.shields.io/badge/-python-1A1B27?style=flat&logo=python&logoColor=FFFF00&labelColor=252526)
-![Swift](https://img.shields.io/badge/-swift-1A1B27?style=flat&logo=swift&logoColor=FFA500&labelColor=252526)
-![Git](https://img.shields.io/badge/-Git-1A1B27?style=flat&logo=git&logoColor=F05032&labelColor=252526)
-![GitHub](https://img.shields.io/badge/-GitHub-1A1B27?style=flat&logo=github&logoColor=ffffff&labelColor=252526)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-1A1B27?style=flat&logo=visual-studio-code&labelColor=252526)
-![Pycharm](https://img.shields.io/badge/-PyCharm-1A1B27?style=flat&logo=pycharm&logoColor=FFFF00&labelColor=252526)
-![Windows](https://img.shields.io/badge/-Windows-1A1B27?style=flat&logo=windows&logoColor=ffbb00&labelColor=252526)
-![Linux](https://img.shields.io/badge/-Linux-1A1B27?style=flat&logo=linux&logoColor=FFA500&labelColor=252526)
-![Discord](https://img.shields.io/badge/-Discord-1A1B27?style=flat&logo=Discord&logoColor=7289da&labelColor=252526)
-    
-    
-</h3>
-
-
-<h4 align="center">Top langs :tongue: :</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADIB-the-NOOB&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ADIB-the-NOOB&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="labibkhanofficialbd" /></p>
-
-
+<a href="https://github.com/ADIB-the-NOOB" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADIB-the-NOOB&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
