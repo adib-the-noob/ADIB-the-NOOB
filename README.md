@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohammed Adib
 ==============================
 
-Passionate Django and IOS app developer.
+Passionate Django Developer and Cybersecurity Enthusiast.
 ----------------------------------------
 
 As a Django developer, my job is to program applications for clients using the Django framework for the Python programming language. In this role, I help select the resources for each project, oversee development, troubleshoot problems, and test existing code.
@@ -9,9 +9,9 @@ As a Django developer, my job is to program applications for clients using the D
 * 🌍  I'm based in Comilla, Chittagong, Bangladesh
 * ✉️  You can contact me at [the\_noob010@protonmail.com](mailto:the_noob010@protonmail.com)
 * 🚀  I'm currently working on [Django](http://https://github.com/ADIB-the-NOOB/Django-For-being-A-Mango-people)
-* 🧠  I'm learning SwiftUI
-* 🤝  I'm open to collaborating on SwiftUI
-* ⚡  I am the Laziest and Noobest person in the world.
+* 🧠  I'm learning SwiftUI, Django REST framework, Networking, Linux, Docker, Cloud Computing, Machine Learning, AI and So on.
+* 🤝  I'm open to collaborating on Django, Django REST framework and SwiftUI.
+* ⚡  I am the Laziest and Noobest programmer in the world.
 
 <a href="https://www.github.com/ADIB-the-NOOB" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ADIB-the-NOOB?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><p> <img src="https://komarev.com/ghpvc/?username=adib-the-noob&label=Profile%20views&color=0e75b6&style=flat" alt="adib-the-noob" /> </p>
