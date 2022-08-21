@@ -10,7 +10,7 @@ As a Django developer, my job is to program applications for clients using the D
 * ✉️  You can contact me at [the\_noob010@protonmail.com](mailto:the_noob010@protonmail.com)
 * 🚀  I'm currently working on [Django](http://https://github.com/ADIB-the-NOOB/Django-For-being-A-Mango-people)
 * 🧠  I'm learning SwiftUI, Django REST framework, Networking, Linux, Docker, Cloud Computing, Machine Learning, AI and So on.
-* 🤝  I'm open to collaborating on Django, Django REST framework and SwiftUI.
+* 🤝  I'm open to collaborating on Django, Django REST framework Projects.
 * ⚡  I am the Laziest and Noobest programmer in the world.
 
 <a href="https://www.github.com/ADIB-the-NOOB" target="_blank" rel="noreferrer"><img
