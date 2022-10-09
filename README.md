@@ -8,7 +8,7 @@ I've been coding in Python for the last 2 years and started Backend Web Developm
 
 * 🌍  I'm based in Cumilla, Chittagong, Bangladesh.
 * 🖥️  See my portfolio at [ADIB-the-NOOB](http://adib-the-noob.github.io/Developer-Portfolio/)
-* ✉️  You can contact me at [the\_noob010@protonmail.com](mailto: the_noob010@protonmail.com)
+* ✉️  You can contact me at [the\_noob010@protonmail.com](mailto:the_noob010@protonmail.com)
 * 🚀  I'm currently working on [E-commerce Website using Django, Django Rest Framework and MySQL.](http://github.com/ADIB-the-NOOB/E-Commerce-Website)
 * 🧠  I'm learning Django, Django Rest Framework, MySQL, PostgreSQL, Redis, Celery, Apache, AWS, API Development, API architecture, Software Architecture, System Design and so on.
 * 🤝  I'm open to collaborating on Backend Development Using Django.
