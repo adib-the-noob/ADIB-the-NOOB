@@ -14,6 +14,9 @@ I've been coding in Python for the last 2 years and started Backend Web Developm
 * 🤝  I'm open to collaborating on Backend Development Using Django.
 * ⚡  I am so lazy!
 
+<a href="https://www.github.com/ADIB-the-NOOB" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ADIB-the-NOOB?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><p> <img src="https://komarev.com/ghpvc/?username=adib-the-noob&label=Profile%20views&color=0e75b6&style=flat" alt="adib-the-noob" /> </p>
+
 ### Skills
 
 <p align="left">
