@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Backend Developer from Bangladesh.
 ------------------------------------
 
-I've been coding in Python for the last 2 years and started Backend Web Development with Django using Python. As a Django developer, my job is to program applications for clients using Django, MySQL, and so on. In this role, I help select the resources for each project, oversee development, troubleshoot problems, and test existing code.
+I am a skilled Python developer with 1+ years of experience in Backend Web Development using Django and Django Rest Framework. My responsibilities include selecting appropriate resources for each project, overseeing development, troubleshooting problems, and conducting rigorous testing of existing code. I work closely with clients, project managers, and other team members to deliver optimal results within project timelines and budget constraints. My commitment to staying up-to-date with the latest developments in web technologies ensures that I provide cutting-edge solutions to my clients.
 
 * 🌍  I'm based in Cumilla, Chittagong, Bangladesh.
-* 🖥️  See my portfolio at [ADIB-the-NOOB](http://adib-the-noob.github.io/Developer-Portfolio/)
-* ✉️  You can contact me at [the\_noob010@protonmail.com](mailto:the_noob010@protonmail.com)
-* 🚀  I'm currently working on [E-commerce Website using Django, Django Rest Framework and MySQL.](http://github.com/ADIB-the-NOOB/E-Commerce-Website)
-* 🧠  I'm learning Django, Django Rest Framework, MySQL, PostgreSQL, Redis, Celery, Apache, AWS, API Development, API architecture, Software Architecture, System Design and so on.
-* 🤝  I'm open to collaborating on Backend Development Using Django.
+* 🖥️  See my portfolio at [ADIB-the-NOOB](https://portfolio-adib-the-noob.vercel.app/)
+* ✉️  You can contact me at [mailtoadib010@gmail.com](mailto:mailtoadib010@gmail.com)
+* 🚀  I'm currently working on **FastAPI and Microsoft Azure**.
+* 🧠  I'm learning FastAPI, Cloud Computing, API Development, API architecture, Software Architecture, System Design and so on.
+* 🤝  I'm open to collaborating on project in which I can contribute as a **Backend Developer**.
 * ⚡  I am so lazy!
 
 <a href="https://www.github.com/ADIB-the-NOOB" target="_blank" rel="noreferrer"><img
@@ -28,6 +28,7 @@ src="https://img.shields.io/github/followers/ADIB-the-NOOB?logo=github&style=for
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
@@ -66,6 +67,10 @@ src="https://img.shields.io/github/followers/ADIB-the-NOOB?logo=github&style=for
 <a href="https://dev.to/adibthenoob" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adibthenoob" height="32" width="32" /></a>
 <a href="https://fb.com/the.noob.adib.550" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="the.noob.adib.550" height="32" width="32" /></a>
 <a href="https://discord.com/users/duD3dhxCdf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ADIB-the-NOOB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/adib_the_noob" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammed-adib-550" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15473131/mohammed-adib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Adib70980567" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UChEMm5laLkUjQ5VSF3TbaQA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/ADIB-the-NOOB/Shoppi-Mart-E-Commerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ADIB-the-NOOB&repo=Shoppi-Mart-E-Commerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ADIB-the-NOOB/Flight-Reservation-API" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ADIB-the-NOOB&repo=Flight-Reservation-API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Badges
 
