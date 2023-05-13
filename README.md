@@ -43,6 +43,7 @@ src="https://img.shields.io/github/followers/ADIB-the-NOOB?logo=github&style=for
         />
       </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -58,8 +59,8 @@ src="https://img.shields.io/github/followers/ADIB-the-NOOB?logo=github&style=for
           height="40"
         />
       </a>
-<img src="https://static-00.iconduck.com/assets.00/general-awscloud-icon-2048x2048-3trjae80.png" alt="AWS Logo" width="40">
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" alt="AWS Logo" width="40">
+<img src="https://zeevector.com/wp-content/uploads/Azure-Logo-PNG-Black.png" alt="azure" width="40"/>
 </p>
 
 
