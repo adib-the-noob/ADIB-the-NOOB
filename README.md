@@ -9,8 +9,8 @@ I am a skilled Python developer with 1+ years of experience in Backend Web Devel
 * 🌍  I'm based in Cumilla, Chittagong, Bangladesh.
 * 🖥️  See my portfolio at [ADIB-the-NOOB](https://portfolio-adib-the-noob.vercel.app/)
 * ✉️  You can contact me at [mailtoadib010@gmail.com](mailto:mailtoadib010@gmail.com)
-* 🚀  I'm currently working on **FastAPI and Microsoft Azure**.
-* 🧠  I'm learning FastAPI, Cloud Computing, API Development, API architecture, Software Architecture, System Design and so on.
+* 🚀  I'm currently working on **A Social Media Application as a Backend Engineer**.
+* 🧠  I'm learning Software Engineering, Backend Engineering, Cloud Computing, API Development, API architecture, Software Architecture, System Design and so on.
 * 🤝  I'm open to collaborating on project in which I can contribute as a **Backend Developer**.
 * ⚡  I am so lazy!
 
@@ -34,31 +34,12 @@ src="https://img.shields.io/github/followers/ADIB-the-NOOB?logo=github&style=for
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-      <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-          alt="redis"
-          width="40"
-          height="40"
-        />
-      </a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-      <a
-        href="https://www.gnu.org/software/bash/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-          alt="bash"
-          width="40"
-          height="40"
-        />
-      </a>
 <img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" alt="AWS Logo" width="40">
 <img src="https://zeevector.com/wp-content/uploads/Azure-Logo-PNG-Black.png" alt="azure" width="40"/>
 </p>
