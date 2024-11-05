@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Adib
 =====================================================================================================================================
 
-Software Engineer - Backend
----------------------------
+Software Engineer - Specialized in Backend
+-------------------------------------------
 
 I am a skilled Python developer with over years of experience in Software Engineering especially in Backend using FastAPI, Django, and Django REST Framework. The role involves resource selection, overseeing development, troubleshooting, and testing code. I collaborate closely with clients, project managers, and team members to ensure timely and budget-conscious project delivery. My curiosity about "how things work" drives them to continually expand their expertise and stay updated with the latest technologies for delivering innovative solutions.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [here](http://portfolio-adib-the-noob.vercel.app/)
+* 🖥️  See my portfolio at [this one](http://portfolio-adib-the-noob.vercel.app/)
 * ✉️  You can contact me at [mohammed.adib1104@gmail.com](mailto:mohammed.adib1104@gmail.com)
-* 🧠  I'm learning more on Backend Engineering and Diving deep into SWE
+* 🧠  I'm learning more about Backend Engineering and Diving deep into SWE
 * 🤝  I'm open to collaborating on Projects on Backend, DevOps and Open-source projects.
-* ⚡  Invite me on Challenging projects Where I can learn and share knowledge.
+* ⚡  Invite me on Challenging projects Where I can contribute, learn and share knowledge.
 
 <a href="https://www.github.com/adib-the-noob" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adib-the-noob?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/adib70980567" target="_blank" rel="noreferrer"><img
