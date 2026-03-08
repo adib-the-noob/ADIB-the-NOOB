@@ -27,7 +27,7 @@ role: "Software Engineer (Backend)"
 portfolio: "http://portfolio-adib-the-noob.vercel.app/"
 ```
 
-I am a skilled Python developer with years of experience in Software Engineering, especially in Backend development using **FastAPI**, **Django**, and **Django REST Framework**. I collaborate closely with clients, project managers, and team members to ensure timely and budget-conscious project delivery. My curiosity about *"how things work"* drives me to continually expand my expertise and stay updated with the latest technologies.
+I am a skilled Python developer with extensive experience in Software Engineering, especially in Backend development using **FastAPI**, **Django**, and **Django REST Framework**. I collaborate closely with clients, project managers, and team members to ensure timely and budget-conscious project delivery. My curiosity about *"how things work"* drives me to continually expand my expertise and stay updated with the latest technologies.
 
 - 🌍 I'm based in **Bangladesh**
 - 🖥️ See my portfolio at **[portfolio-adib-the-noob.vercel.app](http://portfolio-adib-the-noob.vercel.app/)**
@@ -116,7 +116,7 @@ I am a skilled Python developer with years of experience in Software Engineering
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=adib-the-noob&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=0891b2&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=adib-the-noob&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=0891b2&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Contribution Graph" />
 
 </div>
 
